@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\Learn\Java GUI\GUITutorialWorkspace\.metadata\.plugins\org.eclipse.jdt.core
+495363174.index
+1746293908.index
+2519165821.index
